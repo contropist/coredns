@@ -8,7 +8,8 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.7
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
 	github.com/DataDog/datadog-go v3.5.0+incompatible // indirect
-	github.com/aws/aws-sdk-go v1.38.25
+	github.com/apparentlymart/go-cidr v1.1.0
+	github.com/aws/aws-sdk-go v1.38.38
 	github.com/coredns/caddy v1.1.0
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/dustin/go-humanize v1.0.0 // indirect
@@ -19,14 +20,14 @@ require (
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/infobloxopen/go-trees v0.0.0-20200715205103-96a057b8dfb9
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
-	github.com/miekg/dns v1.1.41
+	github.com/miekg/dns v1.1.42
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
 	github.com/openzipkin/zipkin-go v0.2.2
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/prometheus/client_golang v1.10.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.21.0
+	github.com/prometheus/common v0.23.0
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20200306183522-221f0cc107cb
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
