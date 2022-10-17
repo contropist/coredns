@@ -21,19 +21,18 @@ require (
 	github.com/miekg/dns v1.1.45
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
-	github.com/openzipkin/zipkin-go v0.3.0
+	github.com/openzipkin/zipkin-go v0.4.1
 	github.com/oschwald/geoip2-golang v1.5.0
 	github.com/philhofer/fwd v1.1.1 // indirect
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.13.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.32.1
-	github.com/stretchr/objx v0.2.0 // indirect
+	github.com/prometheus/common v0.37.0
 	go.etcd.io/etcd/api/v3 v3.5.1
 	go.etcd.io/etcd/client/v3 v3.5.1
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
-	google.golang.org/api v0.64.0
-	google.golang.org/grpc v1.43.0
+	golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2
+	golang.org/x/sys v0.0.0-20221010170243-090e33056c14
+	google.golang.org/api v0.97.0
+	google.golang.org/grpc v1.50.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.34.0
 	k8s.io/api v0.23.1
 	k8s.io/apimachinery v0.23.1
